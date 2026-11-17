@@ -1,0 +1,11 @@
+{
+  "id": "sanjos3/name-that-llm-tf-idf-gridsearch-baseline",
+  "title": "Name That LLM - TF-IDF + GridSearch baseline",
+  "code_file": "notebooks/03-sanjos-submissao.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["name-that-llm"]
+}
